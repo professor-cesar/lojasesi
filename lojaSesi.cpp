@@ -6,6 +6,7 @@ int main() {
     int op;
     float caixa = 500.00;
     float valor;
+    int opcao;
 
     do {
         // Menu de opções
